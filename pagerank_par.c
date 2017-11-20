@@ -1,10 +1,7 @@
 /*
-Aristotle University of Thessaloniki
 Parallel and Distributed Systems
----4th Assignment---
 --Pagerank PThread Algorithm--
 -Author: Mitsios Georgios
--AEM: 6976
 -September 2014
 */
 
