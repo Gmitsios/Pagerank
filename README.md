@@ -1,7 +1,7 @@
 # Pagerank
 A Pagerank implementation using sequential code and PThreads.
 
-Usage
+Usage:
 for parallel: "filename.txt", number of nodes, number of edges, number of threads
 for sequential: "filename.txt", number of nodes, number of edges
 
